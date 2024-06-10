@@ -5,7 +5,9 @@ A simple calculator app built using Kotlin and XML. This app performs basic arit
 - Clear button to reset the input
 - User-friendly interface
 ## Screenshots
-(/Media (1).jpg)
+![Calculator Screenshot 1](
+/Media.jpg)
+
 ## Acknowledgements
 - [Android Developers](https://developer.android.com/docs)
 - [Kotlin](https://kotlinlang.org/)
